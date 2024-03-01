@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Linux Biolinum Keyboard";
+    src: url("../fonts/LinBiolinum_Kah.ttf");
+}
+
+.keys
+{
+  font-family: "Linux Biolinum Keyboard", sans-serif;
+}
