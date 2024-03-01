@@ -2,7 +2,7 @@ Hotel Information API:
    This API is to get the data of list of hotels
 
 
-URI:{{Environment}}/HotelManagement/HotelInformation?Sitecode=710798
+<b> URI:{{Environment}}/HotelManagement/HotelInformation?Sitecode=710798 </b>
 
 
 Response:
