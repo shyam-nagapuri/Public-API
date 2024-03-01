@@ -1,7 +1,7 @@
 Hotel Information API:
    This API is to get the data of list of hotels
 
-## `Options`
+Type: `{ configType?: 'DEVELOPMENT' | 'PRODUCTION' }`
 
 
  URI:{{Environment}}/HotelManagement/HotelInformation?Sitecode=710798
