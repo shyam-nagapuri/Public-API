@@ -1,10 +1,10 @@
-Hotel Information API:
+<B>Hotel Information API:</B>
    This API is to get the data of list of hotels
 
-Type: `{ configType?: 'DEVELOPMENT' | 'PRODUCTION' }`
+<B>Type</B>: `{ Environment= 'DEVELOPMENT'|'STAGING'  | 'PRODUCTION' }`
 
 
- URI:{{Environment}}/HotelManagement/HotelInformation?Sitecode=710798
+ <B>URI</B>:`{{Environment}}/HotelManagement/HotelInformation?Sitecode=710798`
  
 
 Response:
