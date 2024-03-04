@@ -1,13 +1,16 @@
 <B>Hotel Information API:</B>
-   This API is to get the data of list of hotels
+   This api is to get the list of hotels
 
 <B>Type</B>: `{ Environment= 'DEVELOPMENT'|'STAGING'  | 'PRODUCTION' }`
 
 
  <B>URI</B>:`{{Environment}}/HotelManagement/HotelInformation?Sitecode=710798`
- 
+  
+ ![image](https://github.com/shyam-nagapuri/shyam-nagapuri/assets/161822420/e6fe34be-4098-411e-a1c0-6379cf678d17) 
 
-Response:
+
+
+Response: 😊
 
 {
     "result": [
